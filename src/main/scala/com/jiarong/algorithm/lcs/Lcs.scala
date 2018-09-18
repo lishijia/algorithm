@@ -8,6 +8,28 @@ object Lcs {
   def main(args: Array[String]): Unit = {
     val value = lcsTmp(3,1,2,10)
     println(value)
+    println(this.lcs(10))
+  }
+
+  def lcs(n:Int): Int ={
+    if(n<=0){
+      return 0
+    }
+    if(n==1){
+      return 1
+    }
+    if(n==2){
+      return 2
+    }
+    var first=1
+    var second=2
+    var cur = 0
+    for(start <- 3 to n){
+      cur= first + second;
+      first = second;
+      second = cur
+    }
+    cur
   }
 
   def lcsTmp(cur:Int, curFirst:Int, curSecond:Int, end:Int): Int ={
