@@ -1,4 +1,4 @@
-package com.jiarong.algorithm.lcs
+package lishijia.algorithm.lcs
 
 /**
   * 动态规划

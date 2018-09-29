@@ -1,5 +1,4 @@
-package com.jiarong.data.structure.stack
-
+package lishijia.structure.stack
 
 object Stack {
 

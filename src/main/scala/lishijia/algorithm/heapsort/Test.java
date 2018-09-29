@@ -1,4 +1,4 @@
-package com.jiarong.algorithm.heapsort;
+package lishijia.algorithm.heapsort;
 
 public class Test {
 

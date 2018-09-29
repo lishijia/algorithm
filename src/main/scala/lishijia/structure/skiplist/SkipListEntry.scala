@@ -1,4 +1,4 @@
-package com.jiarong.data.structure.skiplist
+package lishijia.structure.skiplist
 
 /**
   * skipList数据存储结构

@@ -1,5 +1,4 @@
-package com.jiarong.algorithm.heapsort
-
+package lishijia.algorithm.heapsort
 
 object HeapSort {
 

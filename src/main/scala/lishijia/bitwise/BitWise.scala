@@ -1,5 +1,4 @@
-package com.jiarong.bitwise
-
+package lishijia.bitwise
 
 object BitWise {
 

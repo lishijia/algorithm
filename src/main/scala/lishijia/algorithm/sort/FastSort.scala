@@ -1,4 +1,5 @@
-package com.jiarong.algorithm.sort
+package lishijia.algorithm.sort
+
 //有一个无序整型数组，如何求出这个数组排序后的任意两个相邻元素的最大差值？
 // 要求时间和空间复杂度尽可能低。（例如：无序数组 2,3,1,4,6，排序后是1,2,3,4,6，最大差值是6-4=2）
 //如果   ，即a的x次方等于N（a>0，且a≠1），那么数x叫做以a为底N的对数（logarithm），
