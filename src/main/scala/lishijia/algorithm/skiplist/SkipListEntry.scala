@@ -1,4 +1,4 @@
-package lishijia.structure.skiplist
+package lishijia.algorithm.skiplist
 
 /**
   * skipList数据存储结构

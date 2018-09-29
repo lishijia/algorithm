@@ -1,4 +1,4 @@
-package lishijia.structure.stack
+package lishijia.algorithm.stack
 
 object Stack {
 

@@ -1,4 +1,4 @@
-package lishijia.structure.array
+package lishijia.algorithm.array
 
 /**
   * 数组

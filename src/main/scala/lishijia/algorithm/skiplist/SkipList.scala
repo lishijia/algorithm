@@ -1,4 +1,4 @@
-package lishijia.structure.skiplist
+package lishijia.algorithm.skiplist
 
 import scala.util.Random
 
